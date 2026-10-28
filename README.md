@@ -1,5 +1,10 @@
 # Electricity Bill Predictor
 
+## Live Demo
+
+Try the Electricity Bill Predictor dashboard online:
+
+**[Open the Live Website](https://electricity-bill-predictor-gao8w33rzksrei6rpg2hs3.streamlit.app/)**
 ## 1. Project Overview
 
 The Electricity Bill Predictor is a Python-based data analytics and machine-learning project. It analyzes historical household electricity consumption, compares prediction models, forecasts future electricity usage, and estimates electricity costs.
